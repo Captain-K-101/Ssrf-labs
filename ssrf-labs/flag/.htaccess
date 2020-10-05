@@ -1,0 +1,9 @@
+RewriteEngine On
+RewriteBase /
+
+<Files "flag.php">
+        Order Deny,Allow
+        Deny from all
+        Allow from localhost
+        Allow from 0.0.0.0
+</Files>
