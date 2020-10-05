@@ -16,3 +16,6 @@ Can u read  /flag/flag.php
    Stop reading and start the lab aldredy
 ## Level 6
  More To be added soon
+
+### NOTE
+There is a .htaccess file present if not found please make the path to flag.txt unaccessabel by external ip when playing
