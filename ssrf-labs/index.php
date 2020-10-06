@@ -231,42 +231,42 @@ html, body {
 <div id="master-cont">
 		<div id="cont1" class="cont">
 				<div class="inner">
-						<p>1<br><a href='/ssrf-labs/Level1/'>LEVEL1</a> </p>
+						<p>1<br><a href='./Level1/'>LEVEL1</a> </p>
 				</div>
 				<div class="switch prev"></div>
 				<div class="switch next"></div>
 		</div>
 		<div id="cont2" class="cont">
 				<div class="inner">
-						<p>2<br><a href='/ssrf-labs/Level2/'>LEVEL2</a> </p>
+						<p>2<br><a href='./Level2/'>LEVEL2</a> </p>
 				</div>
 				<div class="switch prev"></div>
 				<div class="switch next"></div>
 		</div>
 		<div id="cont3" class="cont">
 				<div class="inner">
-						<p>3<br><a href='/ssrf-labs/Level3/'>LEVEL3</a> </p>
+						<p>3<br><a href='./Level3/'>LEVEL3</a> </p>
 				</div>
 				<div class="switch prev"></div>
 				<div class="switch next"></div>
 		</div>
 		<div id="cont4" class="cont">
 				<div class="inner">
-						<p>4<br><a href='/ssrf-labs/Level4/'>LEVEL4</a> </p>
+						<p>4<br><a href='./Level4/'>LEVEL4</a> </p>
 				</div>
 				<div class="switch prev"></div>
 				<div class="switch next"></div>
 		</div>
 		<div id="cont5" class="cont">
 				<div class="inner">
-						<p>5<br><a href='/ssrf-labs/Level5/'>LEVEL5</a> </p>
+						<p>5<br><a href='./Level5/'>LEVEL5</a> </p>
 				</div>
 				<div class="switch prev"></div>
 				<div class="switch next"></div>
 		</div>
 		<div id="cont6" class="cont">
 				<div class="inner">
-						<p>6<br><a href='/ssrf-labs/Level6/'>LEVEL6</a> </p>
+						<p>6<br><a href='./Level6/'>LEVEL6</a> </p>
 				</div>
 				<div class="switch prev"></div>
 				<div class="switch next"></div>
