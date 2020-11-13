@@ -1,4 +1,4 @@
-# Ssrf-labs
+# ssrf-labs
 
 A Few Basic Level Ssrf That I Encountered in CTF'S
 
